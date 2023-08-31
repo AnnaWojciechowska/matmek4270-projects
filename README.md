@@ -1,4 +1,4 @@
-[![Test MAT-MEK4270 projects](https://github.com/AnnaWojciechowska/matmek4270-projects/actions/workflows/matmek4270.yml/badge.svg)](https://github.com/<your github username>/matmek4270-projects/actions/workflows/matmek4270.yml)
+[![Test MAT-MEK4270 projects](https://github.com/AnnaWojciechowska/matmek4270-projects/actions/workflows/matmek4270.yml/badge.svg)](https://github.com/AnnaWojciechowska/matmek4270-projects/actions/workflows/matmek4270.yml)
 
 ## MAT-MEK4270 projects
 

@@ -14,9 +14,7 @@ def differentiate(u, dt):
     return result
 
 #d[1:-1] = (u[2:] - u[0:-2])/(2*dt)
-# or
 #d[1:N_t] = (u[2:N_t+1] - u[0:N_t-1])/(2*dt)
-
 def differentiate_vector(u, dt):
     result = np.empty(u.size)
     result[0] = (u[1] - u[0]) / dt

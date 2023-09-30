@@ -196,6 +196,8 @@ def test_pulse_bcs():
     data = sol(100, bc=3, ic=1, save_step=100)
     assert np.linalg.norm(data[0]-data[100]) < 1e-12
 
+
+
 if __name__ == '__main__':
     #sol = Wave1D(100, cfl=1, L0=2, c0=1)
     #data = sol(100, bc=3, save_step=1, ic=1)
